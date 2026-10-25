@@ -546,7 +546,13 @@ curl https://eight8-rds-integration.onrender.com/users
 
 *GET http://localhost:9595/users - 200 OK 16ms Size 398B - Returns [{"id":1,"name":"RaviTeja",...},{"id":2,"name":"RaviTeja",...}] - Proof of RDS persistence after 2 POSTs - Both records saved in H2 mem*
 
+### Demo 6 – Render Live - Deploy Succeeded - LIVE
+![Demo6 Render](screenshots/demo6.png)
+
+*Render Dashboard - 88-rds-integration - STATUS: Deploy succeeded | Live - DURATION: 2m30s - DEPLOYED: Oct 25, 2026 at 6:09:28 PM GMT+5:30 - TRIGGER: First Deploy - SOURCE: 97e2b7c - Logs: Started RdsApplication in 81.096 seconds (process running for 91.304) - ===> Your service is live 🎉 - ===> Available at your primary URL https://eight8-rds-integration.onrender.com - Hibernate: select count(*) from users u1_0 - Proof of Live Deployment on Internet - Docker Multi-Stage + H2 In-Memory + JPA + HikariCP working on Render*
+
 ---
+
 
 # 🧪 API Testing Examples
 
