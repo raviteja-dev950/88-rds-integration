@@ -725,7 +725,7 @@ If you found this project helpful, consider giving it a ⭐ Star on GitHub.
 
 **Single Repo:** [88-rds-integration](https://github.com/raviteja-dev950/88-rds-integration)
 
-**Live URL:** https://eight8-rds-integration.onrender.com/ -> Replace with your Render URL after deploy
+**Live URL:** https://eight8-rds-integration.onrender.com/ 
 
 **EC2 Future URL:** `http://YOUR_EC2_PUBLIC_IP:9595` -> After adding real RDS + EC2 Security Group
 
